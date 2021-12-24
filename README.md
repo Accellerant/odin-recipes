@@ -1,6 +1,8 @@
 Author: Matthew Davis  
 Date Created: 12/23/2021
+Date Completed: 12/23/2021
 Date Last Modified: 12/23/2021
+
 Assignment: Odin Project "Odin Recipes"
 
 The overall purpose of this assignment is to take all 
